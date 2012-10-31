@@ -1,0 +1,808 @@
+[QueryHqlWithTwoBoundParameters]:[0]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[1]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[2]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[3]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[4]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[5]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[6]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[7]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[8]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[9]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[10]: below threshold, not timing.
+[QueryHqlWithTwoBoundParameters]:[11]: duration (mS): 17
+[QueryHqlWithTwoBoundParameters]:[12]: duration (mS): 14
+[QueryHqlWithTwoBoundParameters]:[13]: duration (mS): 671
+[QueryHqlWithTwoBoundParameters]:[14]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[15]: duration (mS): 20
+[QueryHqlWithTwoBoundParameters]:[16]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[17]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[18]: duration (mS): 141
+[QueryHqlWithTwoBoundParameters]:[19]: duration (mS): 18
+[QueryHqlWithTwoBoundParameters]:[20]: duration (mS): 913
+[QueryHqlWithTwoBoundParameters]:[21]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[22]: duration (mS): 14
+[QueryHqlWithTwoBoundParameters]:[23]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[24]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[25]: duration (mS): 64
+[QueryHqlWithTwoBoundParameters]:[26]: duration (mS): 16
+[QueryHqlWithTwoBoundParameters]:[27]: duration (mS): 19
+[QueryHqlWithTwoBoundParameters]:[28]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[29]: duration (mS): 18
+[QueryHqlWithTwoBoundParameters]:[30]: duration (mS): 18
+[QueryHqlWithTwoBoundParameters]:[31]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[32]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[33]: duration (mS): 17
+[QueryHqlWithTwoBoundParameters]:[34]: duration (mS): 127
+[QueryHqlWithTwoBoundParameters]:[35]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[36]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[37]: duration (mS): 19
+[QueryHqlWithTwoBoundParameters]:[38]: duration (mS): 11
+[QueryHqlWithTwoBoundParameters]:[39]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[40]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[41]: duration (mS): 17
+[QueryHqlWithTwoBoundParameters]:[42]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[43]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[44]: duration (mS): 20
+[QueryHqlWithTwoBoundParameters]:[45]: duration (mS): 22
+[QueryHqlWithTwoBoundParameters]:[46]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[47]: duration (mS): 14
+[QueryHqlWithTwoBoundParameters]:[48]: duration (mS): 14
+[QueryHqlWithTwoBoundParameters]:[49]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[50]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[51]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[52]: duration (mS): 18
+[QueryHqlWithTwoBoundParameters]:[53]: duration (mS): 11
+[QueryHqlWithTwoBoundParameters]:[54]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[55]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[56]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[57]: duration (mS): 426
+[QueryHqlWithTwoBoundParameters]:[58]: duration (mS): 73
+[QueryHqlWithTwoBoundParameters]:[59]: duration (mS): 405
+[QueryHqlWithTwoBoundParameters]:[60]: duration (mS): 14
+[QueryHqlWithTwoBoundParameters]:[61]: duration (mS): 641
+[QueryHqlWithTwoBoundParameters]:[62]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[63]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[64]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[65]: duration (mS): 10
+[QueryHqlWithTwoBoundParameters]:[66]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[67]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[68]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[69]: duration (mS): 11
+[QueryHqlWithTwoBoundParameters]:[70]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[71]: duration (mS): 29
+[QueryHqlWithTwoBoundParameters]:[72]: duration (mS): 41
+[QueryHqlWithTwoBoundParameters]:[73]: duration (mS): 16
+[QueryHqlWithTwoBoundParameters]:[74]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[75]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[76]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[77]: duration (mS): 18
+[QueryHqlWithTwoBoundParameters]:[78]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[79]: duration (mS): 18
+[QueryHqlWithTwoBoundParameters]:[80]: duration (mS): 20
+[QueryHqlWithTwoBoundParameters]:[81]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[82]: duration (mS): 21
+[QueryHqlWithTwoBoundParameters]:[83]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[84]: duration (mS): 465
+[QueryHqlWithTwoBoundParameters]:[85]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[86]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[87]: duration (mS): 14
+[QueryHqlWithTwoBoundParameters]:[88]: duration (mS): 17
+[QueryHqlWithTwoBoundParameters]:[89]: duration (mS): 23
+[QueryHqlWithTwoBoundParameters]:[90]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[91]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[92]: duration (mS): 13
+[QueryHqlWithTwoBoundParameters]:[93]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[94]: duration (mS): 16
+[QueryHqlWithTwoBoundParameters]:[95]: duration (mS): 12
+[QueryHqlWithTwoBoundParameters]:[96]: duration (mS): 15
+[QueryHqlWithTwoBoundParameters]:[97]: duration (mS): 10
+[QueryHqlWithTwoBoundParameters]:[98]: duration (mS): 31
+[QueryHqlWithTwoBoundParameters]:[99]: duration (mS): 36
+[QueryHqlWithTwoBoundParameters]:[total]: 49595
+[QueryHqlWithTwoHardcodedParameters]:[0]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[1]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[2]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[3]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[4]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[5]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[6]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[7]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[8]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[9]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[10]: below threshold, not timing.
+[QueryHqlWithTwoHardcodedParameters]:[11]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[12]: duration (mS): 19
+[QueryHqlWithTwoHardcodedParameters]:[13]: duration (mS): 110
+[QueryHqlWithTwoHardcodedParameters]:[14]: duration (mS): 14
+[QueryHqlWithTwoHardcodedParameters]:[15]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[16]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[17]: duration (mS): 149
+[QueryHqlWithTwoHardcodedParameters]:[18]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[19]: duration (mS): 467
+[QueryHqlWithTwoHardcodedParameters]:[20]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[21]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[22]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[23]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[24]: duration (mS): 9
+[QueryHqlWithTwoHardcodedParameters]:[25]: duration (mS): 42
+[QueryHqlWithTwoHardcodedParameters]:[26]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[27]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[28]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[29]: duration (mS): 55
+[QueryHqlWithTwoHardcodedParameters]:[30]: duration (mS): 75
+[QueryHqlWithTwoHardcodedParameters]:[31]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[32]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[33]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[34]: duration (mS): 13
+[QueryHqlWithTwoHardcodedParameters]:[35]: duration (mS): 63
+[QueryHqlWithTwoHardcodedParameters]:[36]: duration (mS): 13
+[QueryHqlWithTwoHardcodedParameters]:[37]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[38]: duration (mS): 14
+[QueryHqlWithTwoHardcodedParameters]:[39]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[40]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[41]: duration (mS): 13
+[QueryHqlWithTwoHardcodedParameters]:[42]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[43]: duration (mS): 14
+[QueryHqlWithTwoHardcodedParameters]:[44]: duration (mS): 17
+[QueryHqlWithTwoHardcodedParameters]:[45]: duration (mS): 14
+[QueryHqlWithTwoHardcodedParameters]:[46]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[47]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[48]: duration (mS): 15
+[QueryHqlWithTwoHardcodedParameters]:[49]: duration (mS): 13
+[QueryHqlWithTwoHardcodedParameters]:[50]: duration (mS): 15
+[QueryHqlWithTwoHardcodedParameters]:[51]: duration (mS): 17
+[QueryHqlWithTwoHardcodedParameters]:[52]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[53]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[54]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[55]: duration (mS): 15
+[QueryHqlWithTwoHardcodedParameters]:[56]: duration (mS): 95
+[QueryHqlWithTwoHardcodedParameters]:[57]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[58]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[59]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[60]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[61]: duration (mS): 20
+[QueryHqlWithTwoHardcodedParameters]:[62]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[63]: duration (mS): 39
+[QueryHqlWithTwoHardcodedParameters]:[64]: duration (mS): 13
+[QueryHqlWithTwoHardcodedParameters]:[65]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[66]: duration (mS): 135
+[QueryHqlWithTwoHardcodedParameters]:[67]: duration (mS): 125
+[QueryHqlWithTwoHardcodedParameters]:[68]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[69]: duration (mS): 24
+[QueryHqlWithTwoHardcodedParameters]:[70]: duration (mS): 20
+[QueryHqlWithTwoHardcodedParameters]:[71]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[72]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[73]: duration (mS): 125
+[QueryHqlWithTwoHardcodedParameters]:[74]: duration (mS): 12
+[QueryHqlWithTwoHardcodedParameters]:[75]: duration (mS): 24
+[QueryHqlWithTwoHardcodedParameters]:[76]: duration (mS): 23
+[QueryHqlWithTwoHardcodedParameters]:[77]: duration (mS): 33
+[QueryHqlWithTwoHardcodedParameters]:[78]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[79]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[80]: duration (mS): 413
+[QueryHqlWithTwoHardcodedParameters]:[81]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[82]: duration (mS): 9
+[QueryHqlWithTwoHardcodedParameters]:[83]: duration (mS): 245
+[QueryHqlWithTwoHardcodedParameters]:[84]: duration (mS): 15
+[QueryHqlWithTwoHardcodedParameters]:[85]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[86]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[87]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[88]: duration (mS): 251
+[QueryHqlWithTwoHardcodedParameters]:[89]: duration (mS): 28
+[QueryHqlWithTwoHardcodedParameters]:[90]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[91]: duration (mS): 263
+[QueryHqlWithTwoHardcodedParameters]:[92]: duration (mS): 10
+[QueryHqlWithTwoHardcodedParameters]:[93]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[94]: duration (mS): 9
+[QueryHqlWithTwoHardcodedParameters]:[95]: duration (mS): 13
+[QueryHqlWithTwoHardcodedParameters]:[96]: duration (mS): 149
+[QueryHqlWithTwoHardcodedParameters]:[97]: duration (mS): 15
+[QueryHqlWithTwoHardcodedParameters]:[98]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[99]: duration (mS): 11
+[QueryHqlWithTwoHardcodedParameters]:[total]: 51714
+[QuerySqlWithTwoBoundParameters]:[0]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[1]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[2]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[3]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[4]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[5]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[6]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[7]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[8]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[9]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[10]: below threshold, not timing.
+[QuerySqlWithTwoBoundParameters]:[11]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[12]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[13]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[14]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[15]: duration (mS): 32
+[QuerySqlWithTwoBoundParameters]:[16]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[17]: duration (mS): 11
+[QuerySqlWithTwoBoundParameters]:[18]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[19]: duration (mS): 919
+[QuerySqlWithTwoBoundParameters]:[20]: duration (mS): 139
+[QuerySqlWithTwoBoundParameters]:[21]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[22]: duration (mS): 41
+[QuerySqlWithTwoBoundParameters]:[23]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[24]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[25]: duration (mS): 10
+[QuerySqlWithTwoBoundParameters]:[26]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[27]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[28]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[29]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[30]: duration (mS): 28
+[QuerySqlWithTwoBoundParameters]:[31]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[32]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[33]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[34]: duration (mS): 6
+[QuerySqlWithTwoBoundParameters]:[35]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[36]: duration (mS): 18
+[QuerySqlWithTwoBoundParameters]:[37]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[38]: duration (mS): 982
+[QuerySqlWithTwoBoundParameters]:[39]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[40]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[41]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[42]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[43]: duration (mS): 63
+[QuerySqlWithTwoBoundParameters]:[44]: duration (mS): 49
+[QuerySqlWithTwoBoundParameters]:[45]: duration (mS): 16
+[QuerySqlWithTwoBoundParameters]:[46]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[47]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[48]: duration (mS): 15
+[QuerySqlWithTwoBoundParameters]:[49]: duration (mS): 19
+[QuerySqlWithTwoBoundParameters]:[50]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[51]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[52]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[53]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[54]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[55]: duration (mS): 6
+[QuerySqlWithTwoBoundParameters]:[56]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[57]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[58]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[59]: duration (mS): 10
+[QuerySqlWithTwoBoundParameters]:[60]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[61]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[62]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[63]: duration (mS): 6
+[QuerySqlWithTwoBoundParameters]:[64]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[65]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[66]: duration (mS): 10
+[QuerySqlWithTwoBoundParameters]:[67]: duration (mS): 20
+[QuerySqlWithTwoBoundParameters]:[68]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[69]: duration (mS): 11
+[QuerySqlWithTwoBoundParameters]:[70]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[71]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[72]: duration (mS): 11
+[QuerySqlWithTwoBoundParameters]:[73]: duration (mS): 13
+[QuerySqlWithTwoBoundParameters]:[74]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[75]: duration (mS): 11
+[QuerySqlWithTwoBoundParameters]:[76]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[77]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[78]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[79]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[80]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[81]: duration (mS): 6
+[QuerySqlWithTwoBoundParameters]:[82]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[83]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[84]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[85]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[86]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[87]: duration (mS): 6
+[QuerySqlWithTwoBoundParameters]:[88]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[89]: duration (mS): 10
+[QuerySqlWithTwoBoundParameters]:[90]: duration (mS): 8
+[QuerySqlWithTwoBoundParameters]:[91]: duration (mS): 10
+[QuerySqlWithTwoBoundParameters]:[92]: duration (mS): 35
+[QuerySqlWithTwoBoundParameters]:[93]: duration (mS): 7
+[QuerySqlWithTwoBoundParameters]:[94]: duration (mS): 15
+[QuerySqlWithTwoBoundParameters]:[95]: duration (mS): 21
+[QuerySqlWithTwoBoundParameters]:[96]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[97]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[98]: duration (mS): 47
+[QuerySqlWithTwoBoundParameters]:[99]: duration (mS): 9
+[QuerySqlWithTwoBoundParameters]:[total]: 43734
+[QuerySqlWithTwoHardcodedParameters]:[0]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[1]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[2]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[3]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[4]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[5]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[6]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[7]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[8]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[9]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[10]: below threshold, not timing.
+[QuerySqlWithTwoHardcodedParameters]:[11]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[12]: duration (mS): 29
+[QuerySqlWithTwoHardcodedParameters]:[13]: duration (mS): 30
+[QuerySqlWithTwoHardcodedParameters]:[14]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[15]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[16]: duration (mS): 111
+[QuerySqlWithTwoHardcodedParameters]:[17]: duration (mS): 10
+[QuerySqlWithTwoHardcodedParameters]:[18]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[19]: duration (mS): 219
+[QuerySqlWithTwoHardcodedParameters]:[20]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[21]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[22]: duration (mS): 14
+[QuerySqlWithTwoHardcodedParameters]:[23]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[24]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[25]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[26]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[27]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[28]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[29]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[30]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[31]: duration (mS): 233
+[QuerySqlWithTwoHardcodedParameters]:[32]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[33]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[34]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[35]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[36]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[37]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[38]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[39]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[40]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[41]: duration (mS): 59
+[QuerySqlWithTwoHardcodedParameters]:[42]: duration (mS): 10
+[QuerySqlWithTwoHardcodedParameters]:[43]: duration (mS): 19
+[QuerySqlWithTwoHardcodedParameters]:[44]: duration (mS): 88
+[QuerySqlWithTwoHardcodedParameters]:[45]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[46]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[47]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[48]: duration (mS): 2107
+[QuerySqlWithTwoHardcodedParameters]:[49]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[50]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[51]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[52]: duration (mS): 11
+[QuerySqlWithTwoHardcodedParameters]:[53]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[54]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[55]: duration (mS): 11
+[QuerySqlWithTwoHardcodedParameters]:[56]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[57]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[58]: duration (mS): 148
+[QuerySqlWithTwoHardcodedParameters]:[59]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[60]: duration (mS): 11
+[QuerySqlWithTwoHardcodedParameters]:[61]: duration (mS): 13
+[QuerySqlWithTwoHardcodedParameters]:[62]: duration (mS): 159
+[QuerySqlWithTwoHardcodedParameters]:[63]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[64]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[65]: duration (mS): 12
+[QuerySqlWithTwoHardcodedParameters]:[66]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[67]: duration (mS): 15
+[QuerySqlWithTwoHardcodedParameters]:[68]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[69]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[70]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[71]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[72]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[73]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[74]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[75]: duration (mS): 5
+[QuerySqlWithTwoHardcodedParameters]:[76]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[77]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[78]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[79]: duration (mS): 59
+[QuerySqlWithTwoHardcodedParameters]:[80]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[81]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[82]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[83]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[84]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[85]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[86]: duration (mS): 8
+[QuerySqlWithTwoHardcodedParameters]:[87]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[88]: duration (mS): 1348
+[QuerySqlWithTwoHardcodedParameters]:[89]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[90]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[91]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[92]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[93]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[94]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[95]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[96]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[97]: duration (mS): 6
+[QuerySqlWithTwoHardcodedParameters]:[98]: duration (mS): 7
+[QuerySqlWithTwoHardcodedParameters]:[99]: duration (mS): 9
+[QuerySqlWithTwoHardcodedParameters]:[total]: 22340
+[LikeQueryHqlWithOneBoundParameter]:[0]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[1]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[2]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[3]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[4]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[5]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[6]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[7]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[8]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[9]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[10]: below threshold, not timing.
+[LikeQueryHqlWithOneBoundParameter]:[11]: duration (mS): 3041
+[LikeQueryHqlWithOneBoundParameter]:[12]: duration (mS): 5870
+[LikeQueryHqlWithOneBoundParameter]:[13]: duration (mS): 4834
+[LikeQueryHqlWithOneBoundParameter]:[14]: duration (mS): 3571
+[LikeQueryHqlWithOneBoundParameter]:[15]: duration (mS): 6068
+[LikeQueryHqlWithOneBoundParameter]:[16]: duration (mS): 6153
+[LikeQueryHqlWithOneBoundParameter]:[17]: duration (mS): 6419
+[LikeQueryHqlWithOneBoundParameter]:[18]: duration (mS): 6576
+[LikeQueryHqlWithOneBoundParameter]:[19]: duration (mS): 8994
+[LikeQueryHqlWithOneBoundParameter]:[20]: duration (mS): 6138
+[LikeQueryHqlWithOneBoundParameter]:[21]: duration (mS): 5955
+[LikeQueryHqlWithOneBoundParameter]:[22]: duration (mS): 5798
+[LikeQueryHqlWithOneBoundParameter]:[23]: duration (mS): 5792
+[LikeQueryHqlWithOneBoundParameter]:[24]: duration (mS): 8582
+[LikeQueryHqlWithOneBoundParameter]:[25]: duration (mS): 5232
+[LikeQueryHqlWithOneBoundParameter]:[26]: duration (mS): 4477
+[LikeQueryHqlWithOneBoundParameter]:[27]: duration (mS): 6106
+[LikeQueryHqlWithOneBoundParameter]:[28]: duration (mS): 4474
+[LikeQueryHqlWithOneBoundParameter]:[29]: duration (mS): 5978
+[LikeQueryHqlWithOneBoundParameter]:[30]: duration (mS): 6895
+[LikeQueryHqlWithOneBoundParameter]:[31]: duration (mS): 11322
+[LikeQueryHqlWithOneBoundParameter]:[32]: duration (mS): 7817
+[LikeQueryHqlWithOneBoundParameter]:[33]: duration (mS): 9322
+[LikeQueryHqlWithOneBoundParameter]:[34]: duration (mS): 6146
+[LikeQueryHqlWithOneBoundParameter]:[35]: duration (mS): 5671
+[LikeQueryHqlWithOneBoundParameter]:[36]: duration (mS): 6142
+[LikeQueryHqlWithOneBoundParameter]:[37]: duration (mS): 6693
+[LikeQueryHqlWithOneBoundParameter]:[38]: duration (mS): 6924
+[LikeQueryHqlWithOneBoundParameter]:[39]: duration (mS): 7163
+[LikeQueryHqlWithOneBoundParameter]:[40]: duration (mS): 5603
+[LikeQueryHqlWithOneBoundParameter]:[41]: duration (mS): 3619
+[LikeQueryHqlWithOneBoundParameter]:[42]: duration (mS): 4861
+[LikeQueryHqlWithOneBoundParameter]:[43]: duration (mS): 5370
+[LikeQueryHqlWithOneBoundParameter]:[44]: duration (mS): 6258
+[LikeQueryHqlWithOneBoundParameter]:[45]: duration (mS): 5461
+[LikeQueryHqlWithOneBoundParameter]:[46]: duration (mS): 11831
+[LikeQueryHqlWithOneBoundParameter]:[47]: duration (mS): 8797
+[LikeQueryHqlWithOneBoundParameter]:[48]: duration (mS): 7797
+[LikeQueryHqlWithOneBoundParameter]:[49]: duration (mS): 4470
+[LikeQueryHqlWithOneBoundParameter]:[50]: duration (mS): 7186
+[LikeQueryHqlWithOneBoundParameter]:[51]: duration (mS): 9822
+[LikeQueryHqlWithOneBoundParameter]:[52]: duration (mS): 7227
+[LikeQueryHqlWithOneBoundParameter]:[53]: duration (mS): 7598
+[LikeQueryHqlWithOneBoundParameter]:[54]: duration (mS): 7618
+[LikeQueryHqlWithOneBoundParameter]:[55]: duration (mS): 5093
+[LikeQueryHqlWithOneBoundParameter]:[56]: duration (mS): 7497
+[LikeQueryHqlWithOneBoundParameter]:[57]: duration (mS): 4786
+[LikeQueryHqlWithOneBoundParameter]:[58]: duration (mS): 5037
+[LikeQueryHqlWithOneBoundParameter]:[59]: duration (mS): 6877
+[LikeQueryHqlWithOneBoundParameter]:[60]: duration (mS): 5915
+[LikeQueryHqlWithOneBoundParameter]:[61]: duration (mS): 6106
+[LikeQueryHqlWithOneBoundParameter]:[62]: duration (mS): 3376
+[LikeQueryHqlWithOneBoundParameter]:[63]: duration (mS): 7839
+[LikeQueryHqlWithOneBoundParameter]:[64]: duration (mS): 4621
+[LikeQueryHqlWithOneBoundParameter]:[65]: duration (mS): 6409
+[LikeQueryHqlWithOneBoundParameter]:[66]: duration (mS): 4524
+[LikeQueryHqlWithOneBoundParameter]:[67]: duration (mS): 6294
+[LikeQueryHqlWithOneBoundParameter]:[68]: duration (mS): 8473
+[LikeQueryHqlWithOneBoundParameter]:[69]: duration (mS): 7357
+[LikeQueryHqlWithOneBoundParameter]:[70]: duration (mS): 6821
+[LikeQueryHqlWithOneBoundParameter]:[71]: duration (mS): 5999
+[LikeQueryHqlWithOneBoundParameter]:[72]: duration (mS): 6886
+[LikeQueryHqlWithOneBoundParameter]:[73]: duration (mS): 6893
+[LikeQueryHqlWithOneBoundParameter]:[74]: duration (mS): 8195
+[LikeQueryHqlWithOneBoundParameter]:[75]: duration (mS): 3465
+[LikeQueryHqlWithOneBoundParameter]:[76]: duration (mS): 8145
+[LikeQueryHqlWithOneBoundParameter]:[77]: duration (mS): 6988
+[LikeQueryHqlWithOneBoundParameter]:[78]: duration (mS): 4977
+[LikeQueryHqlWithOneBoundParameter]:[79]: duration (mS): 8138
+[LikeQueryHqlWithOneBoundParameter]:[80]: duration (mS): 9569
+[LikeQueryHqlWithOneBoundParameter]:[81]: duration (mS): 3195
+[LikeQueryHqlWithOneBoundParameter]:[82]: duration (mS): 8475
+[LikeQueryHqlWithOneBoundParameter]:[83]: duration (mS): 7352
+[LikeQueryHqlWithOneBoundParameter]:[84]: duration (mS): 7115
+[LikeQueryHqlWithOneBoundParameter]:[85]: duration (mS): 7338
+[LikeQueryHqlWithOneBoundParameter]:[86]: duration (mS): 5854
+[LikeQueryHqlWithOneBoundParameter]:[87]: duration (mS): 4687
+[LikeQueryHqlWithOneBoundParameter]:[88]: duration (mS): 4632
+[LikeQueryHqlWithOneBoundParameter]:[89]: duration (mS): 8091
+[LikeQueryHqlWithOneBoundParameter]:[90]: duration (mS): 6685
+[LikeQueryHqlWithOneBoundParameter]:[91]: duration (mS): 4691
+[LikeQueryHqlWithOneBoundParameter]:[92]: duration (mS): 6361
+[LikeQueryHqlWithOneBoundParameter]:[93]: duration (mS): 2167
+[LikeQueryHqlWithOneBoundParameter]:[94]: duration (mS): 9680
+[LikeQueryHqlWithOneBoundParameter]:[95]: duration (mS): 5399
+[LikeQueryHqlWithOneBoundParameter]:[96]: duration (mS): 7603
+[LikeQueryHqlWithOneBoundParameter]:[97]: duration (mS): 8212
+[LikeQueryHqlWithOneBoundParameter]:[98]: duration (mS): 6397
+[LikeQueryHqlWithOneBoundParameter]:[99]: duration (mS): 4014
+[LikeQueryHqlWithOneBoundParameter]:[total]: 717188
+[LikeQueryHqlWithOneHardcodedParameter]:[0]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[1]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[2]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[3]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[4]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[5]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[6]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[7]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[8]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[9]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[10]: below threshold, not timing.
+[LikeQueryHqlWithOneHardcodedParameter]:[11]: duration (mS): 6771
+[LikeQueryHqlWithOneHardcodedParameter]:[12]: duration (mS): 6615
+[LikeQueryHqlWithOneHardcodedParameter]:[13]: duration (mS): 6723
+[LikeQueryHqlWithOneHardcodedParameter]:[14]: duration (mS): 4625
+[LikeQueryHqlWithOneHardcodedParameter]:[15]: duration (mS): 7033
+[LikeQueryHqlWithOneHardcodedParameter]:[16]: duration (mS): 8704
+[LikeQueryHqlWithOneHardcodedParameter]:[17]: duration (mS): 7332
+[LikeQueryHqlWithOneHardcodedParameter]:[18]: duration (mS): 8972
+[LikeQueryHqlWithOneHardcodedParameter]:[19]: duration (mS): 9131
+[LikeQueryHqlWithOneHardcodedParameter]:[20]: duration (mS): 4507
+[LikeQueryHqlWithOneHardcodedParameter]:[21]: duration (mS): 4023
+[LikeQueryHqlWithOneHardcodedParameter]:[22]: duration (mS): 6899
+[LikeQueryHqlWithOneHardcodedParameter]:[23]: duration (mS): 3596
+[LikeQueryHqlWithOneHardcodedParameter]:[24]: duration (mS): 6206
+[LikeQueryHqlWithOneHardcodedParameter]:[25]: duration (mS): 7617
+[LikeQueryHqlWithOneHardcodedParameter]:[26]: duration (mS): 6744
+[LikeQueryHqlWithOneHardcodedParameter]:[27]: duration (mS): 4395
+[LikeQueryHqlWithOneHardcodedParameter]:[28]: duration (mS): 6446
+[LikeQueryHqlWithOneHardcodedParameter]:[29]: duration (mS): 1832
+[LikeQueryHqlWithOneHardcodedParameter]:[30]: duration (mS): 6273
+[LikeQueryHqlWithOneHardcodedParameter]:[31]: duration (mS): 9116
+[LikeQueryHqlWithOneHardcodedParameter]:[32]: duration (mS): 5614
+[LikeQueryHqlWithOneHardcodedParameter]:[33]: duration (mS): 7441
+[LikeQueryHqlWithOneHardcodedParameter]:[34]: duration (mS): 5448
+[LikeQueryHqlWithOneHardcodedParameter]:[35]: duration (mS): 10610
+[LikeQueryHqlWithOneHardcodedParameter]:[36]: duration (mS): 4472
+[LikeQueryHqlWithOneHardcodedParameter]:[37]: duration (mS): 6057
+[LikeQueryHqlWithOneHardcodedParameter]:[38]: duration (mS): 6757
+[LikeQueryHqlWithOneHardcodedParameter]:[39]: duration (mS): 5178
+[LikeQueryHqlWithOneHardcodedParameter]:[40]: duration (mS): 6233
+[LikeQueryHqlWithOneHardcodedParameter]:[41]: duration (mS): 7680
+[LikeQueryHqlWithOneHardcodedParameter]:[42]: duration (mS): 9248
+[LikeQueryHqlWithOneHardcodedParameter]:[43]: duration (mS): 4041
+[LikeQueryHqlWithOneHardcodedParameter]:[44]: duration (mS): 7596
+[LikeQueryHqlWithOneHardcodedParameter]:[45]: duration (mS): 7319
+[LikeQueryHqlWithOneHardcodedParameter]:[46]: duration (mS): 11747
+[LikeQueryHqlWithOneHardcodedParameter]:[47]: duration (mS): 7188
+[LikeQueryHqlWithOneHardcodedParameter]:[48]: duration (mS): 7368
+[LikeQueryHqlWithOneHardcodedParameter]:[49]: duration (mS): 5021
+[LikeQueryHqlWithOneHardcodedParameter]:[50]: duration (mS): 8722
+[LikeQueryHqlWithOneHardcodedParameter]:[51]: duration (mS): 7438
+[LikeQueryHqlWithOneHardcodedParameter]:[52]: duration (mS): 5470
+[LikeQueryHqlWithOneHardcodedParameter]:[53]: duration (mS): 8232
+[LikeQueryHqlWithOneHardcodedParameter]:[54]: duration (mS): 5714
+[LikeQueryHqlWithOneHardcodedParameter]:[55]: duration (mS): 5122
+[LikeQueryHqlWithOneHardcodedParameter]:[56]: duration (mS): 2938
+[LikeQueryHqlWithOneHardcodedParameter]:[57]: duration (mS): 8167
+[LikeQueryHqlWithOneHardcodedParameter]:[58]: duration (mS): 2446
+[LikeQueryHqlWithOneHardcodedParameter]:[59]: duration (mS): 6174
+[LikeQueryHqlWithOneHardcodedParameter]:[60]: duration (mS): 4762
+[LikeQueryHqlWithOneHardcodedParameter]:[61]: duration (mS): 5721
+[LikeQueryHqlWithOneHardcodedParameter]:[62]: duration (mS): 9609
+[LikeQueryHqlWithOneHardcodedParameter]:[63]: duration (mS): 9055
+[LikeQueryHqlWithOneHardcodedParameter]:[64]: duration (mS): 6163
+[LikeQueryHqlWithOneHardcodedParameter]:[65]: duration (mS): 7117
+[LikeQueryHqlWithOneHardcodedParameter]:[66]: duration (mS): 8514
+[LikeQueryHqlWithOneHardcodedParameter]:[67]: duration (mS): 7856
+[LikeQueryHqlWithOneHardcodedParameter]:[68]: duration (mS): 7578
+[LikeQueryHqlWithOneHardcodedParameter]:[69]: duration (mS): 7103
+[LikeQueryHqlWithOneHardcodedParameter]:[70]: duration (mS): 8035
+[LikeQueryHqlWithOneHardcodedParameter]:[71]: duration (mS): 5678
+[LikeQueryHqlWithOneHardcodedParameter]:[72]: duration (mS): 6167
+[LikeQueryHqlWithOneHardcodedParameter]:[73]: duration (mS): 6592
+[LikeQueryHqlWithOneHardcodedParameter]:[74]: duration (mS): 6475
+[LikeQueryHqlWithOneHardcodedParameter]:[75]: duration (mS): 6899
+[LikeQueryHqlWithOneHardcodedParameter]:[76]: duration (mS): 4345
+[LikeQueryHqlWithOneHardcodedParameter]:[77]: duration (mS): 7819
+[LikeQueryHqlWithOneHardcodedParameter]:[78]: duration (mS): 5718
+[LikeQueryHqlWithOneHardcodedParameter]:[79]: duration (mS): 9671
+[LikeQueryHqlWithOneHardcodedParameter]:[80]: duration (mS): 3868
+[LikeQueryHqlWithOneHardcodedParameter]:[81]: duration (mS): 7654
+[LikeQueryHqlWithOneHardcodedParameter]:[82]: duration (mS): 5904
+[LikeQueryHqlWithOneHardcodedParameter]:[83]: duration (mS): 6731
+[LikeQueryHqlWithOneHardcodedParameter]:[84]: duration (mS): 3263
+[LikeQueryHqlWithOneHardcodedParameter]:[85]: duration (mS): 6627
+[LikeQueryHqlWithOneHardcodedParameter]:[86]: duration (mS): 6034
+[LikeQueryHqlWithOneHardcodedParameter]:[87]: duration (mS): 9402
+[LikeQueryHqlWithOneHardcodedParameter]:[88]: duration (mS): 5644
+[LikeQueryHqlWithOneHardcodedParameter]:[89]: duration (mS): 3482
+[LikeQueryHqlWithOneHardcodedParameter]:[90]: duration (mS): 5644
+[LikeQueryHqlWithOneHardcodedParameter]:[91]: duration (mS): 7063
+[LikeQueryHqlWithOneHardcodedParameter]:[92]: duration (mS): 10583
+[LikeQueryHqlWithOneHardcodedParameter]:[93]: duration (mS): 9565
+[LikeQueryHqlWithOneHardcodedParameter]:[94]: duration (mS): 7601
+[LikeQueryHqlWithOneHardcodedParameter]:[95]: duration (mS): 9454
+[LikeQueryHqlWithOneHardcodedParameter]:[96]: duration (mS): 6058
+[LikeQueryHqlWithOneHardcodedParameter]:[97]: duration (mS): 6366
+[LikeQueryHqlWithOneHardcodedParameter]:[98]: duration (mS): 7426
+[LikeQueryHqlWithOneHardcodedParameter]:[99]: duration (mS): 7802
+[LikeQueryHqlWithOneHardcodedParameter]:[total]: 747711
+[LikeQuerySqlWithOneBoundParameter]:[0]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[1]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[2]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[3]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[4]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[5]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[6]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[7]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[8]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[9]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[10]: below threshold, not timing.
+[LikeQuerySqlWithOneBoundParameter]:[11]: duration (mS): 8037
+[LikeQuerySqlWithOneBoundParameter]:[12]: duration (mS): 8102
+[LikeQuerySqlWithOneBoundParameter]:[13]: duration (mS): 8182
+[LikeQuerySqlWithOneBoundParameter]:[14]: duration (mS): 7250
+[LikeQuerySqlWithOneBoundParameter]:[15]: duration (mS): 5704
+[LikeQuerySqlWithOneBoundParameter]:[16]: duration (mS): 7457
+[LikeQuerySqlWithOneBoundParameter]:[17]: duration (mS): 7297
+[LikeQuerySqlWithOneBoundParameter]:[18]: duration (mS): 6099
+[LikeQuerySqlWithOneBoundParameter]:[19]: duration (mS): 4922
+[LikeQuerySqlWithOneBoundParameter]:[20]: duration (mS): 6817
+[LikeQuerySqlWithOneBoundParameter]:[21]: duration (mS): 9796
+[LikeQuerySqlWithOneBoundParameter]:[22]: duration (mS): 9325
+[LikeQuerySqlWithOneBoundParameter]:[23]: duration (mS): 7498
+[LikeQuerySqlWithOneBoundParameter]:[24]: duration (mS): 7023
+[LikeQuerySqlWithOneBoundParameter]:[25]: duration (mS): 6180
+[LikeQuerySqlWithOneBoundParameter]:[26]: duration (mS): 7690
+[LikeQuerySqlWithOneBoundParameter]:[27]: duration (mS): 4404
+[LikeQuerySqlWithOneBoundParameter]:[28]: duration (mS): 7573
+[LikeQuerySqlWithOneBoundParameter]:[29]: duration (mS): 6525
+[LikeQuerySqlWithOneBoundParameter]:[30]: duration (mS): 5258
+[LikeQuerySqlWithOneBoundParameter]:[31]: duration (mS): 8245
+[LikeQuerySqlWithOneBoundParameter]:[32]: duration (mS): 4781
+[LikeQuerySqlWithOneBoundParameter]:[33]: duration (mS): 7764
+[LikeQuerySqlWithOneBoundParameter]:[34]: duration (mS): 7866
+[LikeQuerySqlWithOneBoundParameter]:[35]: duration (mS): 7300
+[LikeQuerySqlWithOneBoundParameter]:[36]: duration (mS): 11829
+[LikeQuerySqlWithOneBoundParameter]:[37]: duration (mS): 7218
+[LikeQuerySqlWithOneBoundParameter]:[38]: duration (mS): 7400
+[LikeQuerySqlWithOneBoundParameter]:[39]: duration (mS): 4406
+[LikeQuerySqlWithOneBoundParameter]:[40]: duration (mS): 8397
+[LikeQuerySqlWithOneBoundParameter]:[41]: duration (mS): 9464
+[LikeQuerySqlWithOneBoundParameter]:[42]: duration (mS): 5061
+[LikeQuerySqlWithOneBoundParameter]:[43]: duration (mS): 7110
+[LikeQuerySqlWithOneBoundParameter]:[44]: duration (mS): 7599
+[LikeQuerySqlWithOneBoundParameter]:[45]: duration (mS): 4922
+[LikeQuerySqlWithOneBoundParameter]:[46]: duration (mS): 4593
+[LikeQuerySqlWithOneBoundParameter]:[47]: duration (mS): 7709
+[LikeQuerySqlWithOneBoundParameter]:[48]: duration (mS): 8047
+[LikeQuerySqlWithOneBoundParameter]:[49]: duration (mS): 5120
+[LikeQuerySqlWithOneBoundParameter]:[50]: duration (mS): 7721
+[LikeQuerySqlWithOneBoundParameter]:[51]: duration (mS): 3979
+[LikeQuerySqlWithOneBoundParameter]:[52]: duration (mS): 6546
+[LikeQuerySqlWithOneBoundParameter]:[53]: duration (mS): 5375
+[LikeQuerySqlWithOneBoundParameter]:[54]: duration (mS): 5566
+[LikeQuerySqlWithOneBoundParameter]:[55]: duration (mS): 7999
+[LikeQuerySqlWithOneBoundParameter]:[56]: duration (mS): 9967
+[LikeQuerySqlWithOneBoundParameter]:[57]: duration (mS): 7730
+[LikeQuerySqlWithOneBoundParameter]:[58]: duration (mS): 9933
+[LikeQuerySqlWithOneBoundParameter]:[59]: duration (mS): 9999
+[LikeQuerySqlWithOneBoundParameter]:[60]: duration (mS): 8988
+[LikeQuerySqlWithOneBoundParameter]:[61]: duration (mS): 6697
+[LikeQuerySqlWithOneBoundParameter]:[62]: duration (mS): 9370
+[LikeQuerySqlWithOneBoundParameter]:[63]: duration (mS): 8946
+[LikeQuerySqlWithOneBoundParameter]:[64]: duration (mS): 5455
+[LikeQuerySqlWithOneBoundParameter]:[65]: duration (mS): 3368
+[LikeQuerySqlWithOneBoundParameter]:[66]: duration (mS): 6472
+[LikeQuerySqlWithOneBoundParameter]:[67]: duration (mS): 7425
+[LikeQuerySqlWithOneBoundParameter]:[68]: duration (mS): 3584
+[LikeQuerySqlWithOneBoundParameter]:[69]: duration (mS): 6053
+[LikeQuerySqlWithOneBoundParameter]:[70]: duration (mS): 7416
+[LikeQuerySqlWithOneBoundParameter]:[71]: duration (mS): 4738
+[LikeQuerySqlWithOneBoundParameter]:[72]: duration (mS): 5580
+[LikeQuerySqlWithOneBoundParameter]:[73]: duration (mS): 2369
+[LikeQuerySqlWithOneBoundParameter]:[74]: duration (mS): 4801
+[LikeQuerySqlWithOneBoundParameter]:[75]: duration (mS): 3328
+[LikeQuerySqlWithOneBoundParameter]:[76]: duration (mS): 5253
+[LikeQuerySqlWithOneBoundParameter]:[77]: duration (mS): 6868
+[LikeQuerySqlWithOneBoundParameter]:[78]: duration (mS): 4759
+[LikeQuerySqlWithOneBoundParameter]:[79]: duration (mS): 10276
+[LikeQuerySqlWithOneBoundParameter]:[80]: duration (mS): 4497
+[LikeQuerySqlWithOneBoundParameter]:[81]: duration (mS): 6716
+[LikeQuerySqlWithOneBoundParameter]:[82]: duration (mS): 9361
+[LikeQuerySqlWithOneBoundParameter]:[83]: duration (mS): 7667
+[LikeQuerySqlWithOneBoundParameter]:[84]: duration (mS): 6814
+[LikeQuerySqlWithOneBoundParameter]:[85]: duration (mS): 5689
+[LikeQuerySqlWithOneBoundParameter]:[86]: duration (mS): 7388
+[LikeQuerySqlWithOneBoundParameter]:[87]: duration (mS): 8482
+[LikeQuerySqlWithOneBoundParameter]:[88]: duration (mS): 8140
+[LikeQuerySqlWithOneBoundParameter]:[89]: duration (mS): 5192
+[LikeQuerySqlWithOneBoundParameter]:[90]: duration (mS): 5330
+[LikeQuerySqlWithOneBoundParameter]:[91]: duration (mS): 7368
+[LikeQuerySqlWithOneBoundParameter]:[92]: duration (mS): 8249
+[LikeQuerySqlWithOneBoundParameter]:[93]: duration (mS): 6902
+[LikeQuerySqlWithOneBoundParameter]:[94]: duration (mS): 6514
+[LikeQuerySqlWithOneBoundParameter]:[95]: duration (mS): 6386
+[LikeQuerySqlWithOneBoundParameter]:[96]: duration (mS): 5247
+[LikeQuerySqlWithOneBoundParameter]:[97]: duration (mS): 6873
+[LikeQuerySqlWithOneBoundParameter]:[98]: duration (mS): 6738
+[LikeQuerySqlWithOneBoundParameter]:[99]: duration (mS): 4975
+[LikeQuerySqlWithOneBoundParameter]:[total]: 743747
+[LikeQuerySqlWithOneHardcodedParameter]:[0]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[1]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[2]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[3]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[4]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[5]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[6]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[7]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[8]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[9]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[10]: below threshold, not timing.
+[LikeQuerySqlWithOneHardcodedParameter]:[11]: duration (mS): 7093
+[LikeQuerySqlWithOneHardcodedParameter]:[12]: duration (mS): 5138
+[LikeQuerySqlWithOneHardcodedParameter]:[13]: duration (mS): 7367
+[LikeQuerySqlWithOneHardcodedParameter]:[14]: duration (mS): 6897
+[LikeQuerySqlWithOneHardcodedParameter]:[15]: duration (mS): 8950
+[LikeQuerySqlWithOneHardcodedParameter]:[16]: duration (mS): 3630
+[LikeQuerySqlWithOneHardcodedParameter]:[17]: duration (mS): 7659
+[LikeQuerySqlWithOneHardcodedParameter]:[18]: duration (mS): 5862
+[LikeQuerySqlWithOneHardcodedParameter]:[19]: duration (mS): 9804
+[LikeQuerySqlWithOneHardcodedParameter]:[20]: duration (mS): 6958
+[LikeQuerySqlWithOneHardcodedParameter]:[21]: duration (mS): 10379
+[LikeQuerySqlWithOneHardcodedParameter]:[22]: duration (mS): 5440
+[LikeQuerySqlWithOneHardcodedParameter]:[23]: duration (mS): 6635
+[LikeQuerySqlWithOneHardcodedParameter]:[24]: duration (mS): 7381
+[LikeQuerySqlWithOneHardcodedParameter]:[25]: duration (mS): 7069
+[LikeQuerySqlWithOneHardcodedParameter]:[26]: duration (mS): 5284
+[LikeQuerySqlWithOneHardcodedParameter]:[27]: duration (mS): 5803
+[LikeQuerySqlWithOneHardcodedParameter]:[28]: duration (mS): 7006
+[LikeQuerySqlWithOneHardcodedParameter]:[29]: duration (mS): 4583
+[LikeQuerySqlWithOneHardcodedParameter]:[30]: duration (mS): 4749
+[LikeQuerySqlWithOneHardcodedParameter]:[31]: duration (mS): 9402
+[LikeQuerySqlWithOneHardcodedParameter]:[32]: duration (mS): 5668
+[LikeQuerySqlWithOneHardcodedParameter]:[33]: duration (mS): 6108
+[LikeQuerySqlWithOneHardcodedParameter]:[34]: duration (mS): 6277
+[LikeQuerySqlWithOneHardcodedParameter]:[35]: duration (mS): 8862
+[LikeQuerySqlWithOneHardcodedParameter]:[36]: duration (mS): 6895
+[LikeQuerySqlWithOneHardcodedParameter]:[37]: duration (mS): 4603
+[LikeQuerySqlWithOneHardcodedParameter]:[38]: duration (mS): 5349
+[LikeQuerySqlWithOneHardcodedParameter]:[39]: duration (mS): 5881
+[LikeQuerySqlWithOneHardcodedParameter]:[40]: duration (mS): 5529
+[LikeQuerySqlWithOneHardcodedParameter]:[41]: duration (mS): 5775
+[LikeQuerySqlWithOneHardcodedParameter]:[42]: duration (mS): 7903
+[LikeQuerySqlWithOneHardcodedParameter]:[43]: duration (mS): 7908
+[LikeQuerySqlWithOneHardcodedParameter]:[44]: duration (mS): 6473
+[LikeQuerySqlWithOneHardcodedParameter]:[45]: duration (mS): 8300
+[LikeQuerySqlWithOneHardcodedParameter]:[46]: duration (mS): 6824
+[LikeQuerySqlWithOneHardcodedParameter]:[47]: duration (mS): 7910
+[LikeQuerySqlWithOneHardcodedParameter]:[48]: duration (mS): 5967
+[LikeQuerySqlWithOneHardcodedParameter]:[49]: duration (mS): 7705
+[LikeQuerySqlWithOneHardcodedParameter]:[50]: duration (mS): 5318
+[LikeQuerySqlWithOneHardcodedParameter]:[51]: duration (mS): 5723
+[LikeQuerySqlWithOneHardcodedParameter]:[52]: duration (mS): 7838
+[LikeQuerySqlWithOneHardcodedParameter]:[53]: duration (mS): 7399
+[LikeQuerySqlWithOneHardcodedParameter]:[54]: duration (mS): 8148
+[LikeQuerySqlWithOneHardcodedParameter]:[55]: duration (mS): 9586
+[LikeQuerySqlWithOneHardcodedParameter]:[56]: duration (mS): 10194
+[LikeQuerySqlWithOneHardcodedParameter]:[57]: duration (mS): 4802
+[LikeQuerySqlWithOneHardcodedParameter]:[58]: duration (mS): 7901
+[LikeQuerySqlWithOneHardcodedParameter]:[59]: duration (mS): 7189
+[LikeQuerySqlWithOneHardcodedParameter]:[60]: duration (mS): 6221
+[LikeQuerySqlWithOneHardcodedParameter]:[61]: duration (mS): 4443
+[LikeQuerySqlWithOneHardcodedParameter]:[62]: duration (mS): 4860
+[LikeQuerySqlWithOneHardcodedParameter]:[63]: duration (mS): 5182
+[LikeQuerySqlWithOneHardcodedParameter]:[64]: duration (mS): 7321
+[LikeQuerySqlWithOneHardcodedParameter]:[65]: duration (mS): 7800
+[LikeQuerySqlWithOneHardcodedParameter]:[66]: duration (mS): 7151
+[LikeQuerySqlWithOneHardcodedParameter]:[67]: duration (mS): 8117
+[LikeQuerySqlWithOneHardcodedParameter]:[68]: duration (mS): 7003
+[LikeQuerySqlWithOneHardcodedParameter]:[69]: duration (mS): 5898
+[LikeQuerySqlWithOneHardcodedParameter]:[70]: duration (mS): 7231
+[LikeQuerySqlWithOneHardcodedParameter]:[71]: duration (mS): 6718
+[LikeQuerySqlWithOneHardcodedParameter]:[72]: duration (mS): 6551
+[LikeQuerySqlWithOneHardcodedParameter]:[73]: duration (mS): 9788
+[LikeQuerySqlWithOneHardcodedParameter]:[74]: duration (mS): 3599
+[LikeQuerySqlWithOneHardcodedParameter]:[75]: duration (mS): 9691
+[LikeQuerySqlWithOneHardcodedParameter]:[76]: duration (mS): 9236
+[LikeQuerySqlWithOneHardcodedParameter]:[77]: duration (mS): 7225
+[LikeQuerySqlWithOneHardcodedParameter]:[78]: duration (mS): 5031
+[LikeQuerySqlWithOneHardcodedParameter]:[79]: duration (mS): 6191
+[LikeQuerySqlWithOneHardcodedParameter]:[80]: duration (mS): 4284
+[LikeQuerySqlWithOneHardcodedParameter]:[81]: duration (mS): 7843
+[LikeQuerySqlWithOneHardcodedParameter]:[82]: duration (mS): 3745
+[LikeQuerySqlWithOneHardcodedParameter]:[83]: duration (mS): 8057
+[LikeQuerySqlWithOneHardcodedParameter]:[84]: duration (mS): 8105
+[LikeQuerySqlWithOneHardcodedParameter]:[85]: duration (mS): 6896
+[LikeQuerySqlWithOneHardcodedParameter]:[86]: duration (mS): 4106
+[LikeQuerySqlWithOneHardcodedParameter]:[87]: duration (mS): 3974
+[LikeQuerySqlWithOneHardcodedParameter]:[88]: duration (mS): 5681
+[LikeQuerySqlWithOneHardcodedParameter]:[89]: duration (mS): 6853
+[LikeQuerySqlWithOneHardcodedParameter]:[90]: duration (mS): 5321
+[LikeQuerySqlWithOneHardcodedParameter]:[91]: duration (mS): 6276
+[LikeQuerySqlWithOneHardcodedParameter]:[92]: duration (mS): 9255
+[LikeQuerySqlWithOneHardcodedParameter]:[93]: duration (mS): 5549
+[LikeQuerySqlWithOneHardcodedParameter]:[94]: duration (mS): 8365
+[LikeQuerySqlWithOneHardcodedParameter]:[95]: duration (mS): 5100
+[LikeQuerySqlWithOneHardcodedParameter]:[96]: duration (mS): 10398
+[LikeQuerySqlWithOneHardcodedParameter]:[97]: duration (mS): 2497
+[LikeQuerySqlWithOneHardcodedParameter]:[98]: duration (mS): 10807
+[LikeQuerySqlWithOneHardcodedParameter]:[99]: duration (mS): 7396
+[LikeQuerySqlWithOneHardcodedParameter]:[total]: 735696

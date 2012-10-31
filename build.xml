@@ -1,0 +1,188 @@
+<project name="hibernate-test" basedir="." default="compile">
+    <!-- project directories -->
+    <property name="etc.dir" value="etc"/>
+    <property name="lib.dir" value="lib"/>
+    <property name="log.dir" value="logs"/>
+    <property name="src-live.dir" value="src/java"/>
+    <property name="src-test.dir" value="src/java"/>
+    <property name="hbm.dir" value="${src-live.dir}"/>
+    <property name="sql.dir" value="src/sql"/>
+    <property name="output.dir" value="output"/>
+    <property name="classes.dir" value="${output.dir}/classes"/>
+    <property name="archives.dir" value="${output.dir}/archives"/>
+    <property name="apidoc.dir" value="${output.dir}/apidoc"/>
+    <property name="reports.dir" value="${output.dir}/reports"/>
+    <property name="database.dir" value="${output.dir}/data"/>
+
+    <!-- load up configurable properties -->
+    <!-- example of per-hostname configuration
+    <property environment="env"/>
+    <property name="hostname.properties" value="${etc.dir}/${env.HOSTNAME}.properties"/>
+    <property file="${hostname.properties}"/>
+    -->
+<!--    <property name="application.properties" value="${ant.project.name}.properties"/>-->
+    <property name="application.properties" value="hibernate-test.properties"/>
+    <property file="${etc.dir}/${application.properties}"/>
+
+    <!-- project filenames -->
+    <property name="log4j.config" value="${etc.dir}/log4j.xml"/>
+    <property name="jar.file" value="${archives.dir}/${ant.project.name}-${DSTAMP}-${TSTAMP}.jar"/>
+    <property name="hibernate.cfg" value="${etc.dir}/hibernate.cfg.xml"/>
+
+    <!-- init -->
+    <target name="initialize" description="Does initial setup, including copying db config, setting classpaths, and making directories.">
+        <tstamp/>
+        <mkdir dir="${output.dir}"/>
+        <mkdir dir="${classes.dir}"/>
+	<mkdir dir="${log.dir}"/>
+        <path id="classpath">
+            <fileset dir="${lib.dir}">
+                <include name="**/*.jar"/>
+            </fileset>
+            <path path="${classes.dir}"/>
+            <path path="${basedir}"/>
+            <path path="${etc.dir}"/>
+        </path>
+	<!--
+        <property name="cp" refid="classpath"/>
+          <echo>Classpath ${cp}</echo>
+	  -->
+        <filter filtersfile="${etc.dir}/${application.properties}"/>
+        <copy file="${hibernate.cfg}" todir="${classes.dir}" filtering="true"/>
+	    <copy file="${etc.dir}/${application.properties}" todir="${classes.dir}"/>
+        <copy todir="${classes.dir}">
+            <fileset dir="${hbm.dir}">
+                <include name="**/*.hbm.xml"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <!-- information -->
+    <target name="information" description="Displays all project properties" depends="initialize">
+        <echoproperties/>
+    </target>
+
+    <!-- clean -->
+    <target name="clean" description="Cleans up generated files by deleting output directory.">
+        <delete dir="${output.dir}"/>
+        <delete dir="${log.dir}"/>
+    </target>
+
+    <!-- compile -->
+    <target name="compile" description="Compiles all source code." depends="initialize">
+        <javac
+            destdir="${classes.dir}"
+            includes="**/*.java"
+	    debug="true"
+	    debuglevel="lines,source">
+                <classpath refid="classpath"/>
+                <src path="${src-live.dir}"/>
+                <src path="${src-test.dir}"/>
+        </javac>
+    </target>
+
+    <!-- jar -->
+    <target name="jar" depends="clean,compile" description="Builds a jar file for this project.">
+        <mkdir dir="${archives.dir}"/>
+        <jar destfile="${jar.file}">
+            <fileset dir="${output.dir}" excludes="**/*Test*.class"/>
+            <manifest>
+              <attribute name="Build-On" value="${DSTAMP}-${TSTAMP}"/>
+              <attribute name="Build-By" value="${user.name}"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <!-- test -->
+    <target name="test" depends="compile" description="Runs this project's unit tests.">
+        <mkdir dir="${reports.dir}"/>
+        <mkdir dir="${reports.dir}/html"/>
+        <mkdir dir="${reports.dir}/xml"/>
+        <junit showoutput="on" printsummary="withOutAndErr" haltonerror="on" fork="no">
+            <classpath refid="classpath"/>
+            <sysproperty key="log4j.debug" value="false"/>
+            <sysproperty key="log4j.configuration" value="${log4j.config}"/>
+            <sysproperty key="application-properties" value="/${application.properties}"/>
+
+            <test name="AllTests" todir="${reports.dir}/xml"/>
+
+            <formatter type="xml" usefile="true"/>
+        </junit>
+    </target>
+
+    <target name="test-report">
+        <junitreport todir="${reports.dir}">
+            <fileset dir="${reports.dir}/xml">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="noframes" todir="${reports.dir}/html"/>
+        </junitreport>
+    </target>
+
+    <target name="drop-test-schema" description="Drops the test database schema" depends="initialize">
+        <sql driver="${database.jdbc.driver}"
+             url="${database.jdbc.url}"
+             userid="${database.jdbc.username}"
+	         password="${database.jdbc.password}"
+             classpathref="classpath"
+             autocommit="true">
+    	  <transaction src="${sql.dir}/${database.schema.drop}"/>
+        </sql>
+    </target>
+
+    <target name="create-test-schema" description="Creates a test database schema" depends="initialize">
+        <sql driver="${database.jdbc.driver}"
+             url="${database.jdbc.url}"
+             userid="${database.jdbc.username}"
+	         password="${database.jdbc.password}"
+             classpathref="classpath"
+             autocommit="true">
+    	  <transaction src="${sql.dir}/${database.schema.create}"/>
+        </sql>
+    </target>
+
+    <target name="create-test-data" description="Populates a test database schema" depends="create-test-schema">
+        <sql driver="${database.jdbc.driver}"
+             url="${database.jdbc.url}"
+             userid="${database.jdbc.username}"
+	         password="${database.jdbc.password}"
+             classpathref="classpath"
+             delimiter="go"
+             delimitertype="row"
+             autocommit="true">
+    	  <transaction src="${sql.dir}/${database.schema.data}"/>
+        </sql>
+    </target>
+
+    <!-- javadoc -->
+    <target name="javadoc" depends="initialize" description="Generates javadoc for this project.">
+        <mkdir dir="${apidoc.dir}"/>
+        <echo>Generating javadoc from directory: ${src-live.dir}</echo>
+        <javadoc
+            packagenames="citco.*,com.citco.*"
+            destdir="${apidoc.dir}"
+            sourcepath="${src-live.dir}"
+            author="true"
+            version="true"
+            use="true"
+            classpathref="classpath"
+            windowtitle="${ant.project.name} API docs">
+
+            <doctitle><![CDATA[<h2>${ant.project.name}</h2>]]></doctitle>
+            <bottom>
+                <![CDATA[
+                <i>Copyright &#169; 2005-6 Citco Fund Services. All Rights Reserved.</i>
+                Generated on ${DSTAMP}-${TSTAMP}
+                ]]>
+            </bottom>
+            <tag name="todo" scope="all" description="To do:"/>
+            <tag name="created" scope="all" description="Created on:"/>
+            <!--
+            <group title="Group 1 Packages" packages="com.dummy.test.a*"/>
+            <group title="Group 2 Packages" packages="com.dummy.test.b*:com.dummy.test.c*"/>
+            <link offline="true" href="http://java.sun.com/products/jdk/1.2/docs/api/" packagelistLoc="C:\tmp"/>
+            <link href="http://developer.java.sun.com/developer/products/xml/docs/api/"/>
+            -->
+        </javadoc>
+    </target>
+</project>
